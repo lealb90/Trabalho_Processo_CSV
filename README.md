@@ -14,4 +14,4 @@ As respostas dos itens 1 e 2 devem ser armazenados em arquivo “cvs”, mantend
 Deve ser implementada 1 (uma) função para resolver cada item indicado acima.
 O código-fonte deve ser modularizado em três arquivos, conforme indicado nas aulas de agosto/2024.
 
-Membros: Brenda Leal,Camille Abreu,Daniel Dias,Gabriel Zanolla.
+Membros: Brenda Leal, Camille Abreu, Daniel Dias, Gabriel Zanolla.
